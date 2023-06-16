@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom,  #47eb6b, yellow);
+}
+
+input{
+	width: 90%;
+	height: 20px;
+	background: #e0dede;
+	justify-content: center;
+	display: flex;
+	margin: 5px auto;
+	padding: 15px;
+	border: none;
+	outline: none;
+	border-radius: 40px;
+}
+
+
